@@ -4,8 +4,8 @@
 
     <test name="HomeworkTests">
         <classes>
-            <class name="FormTests"/>
-            <class name="AlertTests"/>
+            <class name="Form.FormTests"/>
+            <class name="Alert.AlertTests"/>
         </classes>
     </test>
 
